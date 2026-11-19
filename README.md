@@ -1,1 +1,6 @@
 # StudentManagement08
+
+Student Management System
+
+Developed using python.
+Maintained by CSE students
